@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">RecyclerViewRecipie</string>
+
+    <!--    lemon_sandwiches-->
+    <string name="lemon_sandwiches">Kale Lemon Sandwiches</string>
+    <string name="lemon_sandwiches_description">One of the tastiest sandwiches and the most healthful one may
+        put his teeth into is the lemon sandwich. Pare the lemon and with a sharp knife cut it into thin slices.
+        Put these between buttered slices of bread with sugar to taste.</string>
+
+    <!--    mango black bean salad-->
+    <string name="mango_black_bean_salad">Mango Black Bean Salad</string>
+    <string name="mango_black_bean_salad_description">This Mango Black Bean Salad salad recipe is colorful, delicious, made with mango, black beans
+        , fresh sweet corn, tomato, fresh herb, olive oil, and lime dressing within 20 minutes. Perfect for summer picnics and
+        barbecue parties! For the salad, fresh sliced mango combines with red bell pepper and red onion strips and is tossed with fresh basil and cilantro.
+        The dressing is bright and fresh with lots of lime juice and zest, a pinch of sugar and a pinch of heat, from red pepper flakes.</string>
+
+    <!--    pizza-->
+    <string name="Pizza">Pizza</string>
+    <string name="Pizza_description">Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination
+        of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly—usually,
+        in a commercial setting, using a wood-fired oven heated to a very high temperature—and served hot. Italy has many variations of pizza.
+        The Neapolitan pizza, or Naples-style pizza, is made specifically with buffalo mozzarella (produced from the milk of Italian Mediterranean buffalo)
+        or fior di latte (mozzarella produced from the milk of prized Agerolese cows) and with San Marzano tomatoes or pomodorino vesuviano (a variety of
+        grape tomato grown in Naples).</string>
+    <!--momo-->
+    <string name="momo">Momo</string>
+    <string name="momo_description">Momo is a type of steamed filled dumpling, with origins from Tibet. Momo is native to Tibet,
+        Nepal as well as Indian Himalayan Region of Ladakh, Sikkim, Assam, and Arunachal Pradesh, Himachal Pradesh, Uttarakhand, and
+        Darjeeling. It is popular across a wider region of the Indian subcontinent. Recently, it has also hit in many international markets.
+        Momo is similar to Chinese baozi, jiaozi, and mantou, Mongolian buuz, Japanese gyoza, Korean mandu and Turkic manti, but heavily influenced
+        by cuisine of the Indian subcontinent with spices and herbs. Momo are extremely popular and can be found in every kind of shop from restaurants
+        to street vendors.</string>
+
+    <!--    Chocolate Mousse Cake-->
+    <string name="chocolate_mousse_cake">Chocolate Mousse Cake</string>
+    <string name="chocolate_mousse_cake_description">This Chocolate Mousse Cake recipe is moist, elegant, and so delicious!
+        It\'s a simple, amazing chocolate cake filled with an easy dark chocolate mousse, and warm chocolate
+        frosting poured on top! The chocolate mousse recipe couldn’t be easier to make, and you can prep everything in advance!
+        The chocolate cake is moist and divine. The chocolate mousse filling is creamy and pairs perfectly with the cake. This will
+        become your new favorite cake!</string>
+
+    <!--    Italian Grilled Cheese Sandwich-->
+    <string name="italian_grilled_cheese_sandwich">Italian Grilled Cheese Sandwich</string>
+    <string name="italian_grilled_cheese_sandwich_description">Italian Grilled Cheese Sandwiches is my favorite twist to a traditional grilled cheese!
+        Any dinner that\'s ready in 15 minutes is my kind of easy weeknight meal!The word “Italian” in thesesandwiches makes them sound super
+        impressive, I know 😉  — well….they’re not. haha. But, they’re the easiest thing in the world to make
+        and they always, always satisfy! Spread a layer of your favorite marinara sauce on the inside slices of some thick, crusty artisan bread.
+        Good bread is the key to an awesome grilled cheese! Next, layer it with cheese, and grill it until the outside is crispy and the inside is melted.</string>
+    <string name="recipe_heading">Heading</string>
+    <string name="recipe_description">Description</string>
+
+    <string name="sample_ingredients">4 slices whole grain\n1 bunch of kale or chard, center rib removed and chopped in bite sized pieces (4 cups or more)\n1/4–⅓ cup hummus\na few green onions, light green parts only (save the rest for soup), sliced thin\n2 tbsp chopped cilantro or parsley leaves\n1 lemon\nFinishing oil (sunflower or olive)\nsalt and pepper\n1 large tomato, sliced in 4 thick slices (optional)</string>
+    <string name="sample_procedure">1. Line 2 baking sheets with nonstick baking mats or parchment paper; set aside. Whisk together both flours, cornstarch,
+        and salt in a bowl.\n2. Put butter, sugars, lemon zest, and 1 tablespoon lemon juice into the bowl of an electric mixer fitted with the paddle
+        attachment. Beat on medium speed until fluffy, about 3 minutes. Reduce speed to low. Add flour mixture in three batches, mixing well after each
+        addition. Cover dough with plastic wrap; refrigerate 30 minutes.\n3. Preheat oven to 350 degrees. Place cold dough between two pieces of parchment
+        paper and roll out to 1/8 inch thick. Transfer dough on parchment to a baking sheet; freeze 10 minutes.\n4. Using a fluted 1 1/2-inch round cutter,
+        cut out dough; transfer to prepared baking sheets. Reroll scraps, and cut out (you should have 40 rounds). Bake until pale golden, 10 to 11 minutes,
+        rotating sheets halfway through. Let cool slightly on sheets on wire racks. Transfer cookies to racks to cool completely.</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="procedure">Procedure:</string>
+    <string name="item_image_description">Item Image</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ScoreButtons" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_statelist</item>
+    </style>
+    <style name="PlusButtons" parent="ScoreButtons">
+
+        <item name="android:src">@drawable/ic_increase</item>
+        <item name="android:contentDescription">@string/plus_button_description</item>
+    </style>
+    <style name="MinusButtons" parent="ScoreButtons">
+        <item name="android:src">@drawable/ic_decrease</item>
+        <item name="android:contentDescription">@string/minus_button_description</item>
+    </style>
+
+    <style name="ScoreText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Headline</item>
+    </style>
+    <style name="TeamText">
+        <item name=
+            "android:textAppearance">@style/TextAppearance.AppCompat.Display1</item>
+    </style>
+
+</resources>

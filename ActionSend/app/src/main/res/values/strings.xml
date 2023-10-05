@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActionSend</string>
+    <string name="enter_phone_hint">phone number</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LogIn</string>
+
+
+<!--    mainactivity-->
+    <string name="heading_text"><b>Siddhartha</b>Bank</string>
+    <string name="textView_mobile_number">Mobile Number</string>
+    <string name="textView_password">Password</string>
+    <string name="checkbox_remember_me">Remember me</string>
+    <string name="btn_login">Login</string>
+    <string name="textView_new_user">New to Siddhartha BankSmartXP?</string>
+    <string name="btn_register_activate">Register/Activate</string>
+    <string name="btn_forgot_password">Forgot Password</string>
+
+    <!--    registerActivity-->
+    <string name="textView_create_new_account">Create new account</string>
+    <string name="txt_full_name">Full Name</string>
+    <string name="txt_mobile_number">Mobile Number</string>
+    <string name="txt_occupation">Occupation</string>
+    <string name="reg_txt_password">Password</string>
+    <string name="btn_register_now">Register now</string>
+    <string name="txt_already_have_account">Already have account?</string>
+    <string name="btn_join_now">Join now</string>
+    <string-array name="occupation_array">
+        <item>Student</item>
+        <item>Engineer</item>
+        <item>Farmer</item>
+        <item>Other</item>
+    </string-array>
+
+
+</resources>

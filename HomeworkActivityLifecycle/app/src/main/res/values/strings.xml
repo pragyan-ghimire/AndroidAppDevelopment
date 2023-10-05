@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeworkActivityLifecycle</string>
+    <string name="count">Count</string>
+    <string name="initial_count">0</string>
+</resources>

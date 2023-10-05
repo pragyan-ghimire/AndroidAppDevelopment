@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SportsDetailText" parent="TextAppearance.AppCompat.Subhead"/>
+    <style name="SportsTitle" parent="TextAppearance.AppCompat.Headline"/>
+    <style name="SportsDetailTitle" parent="TextAppearance.AppCompat.Display1">
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

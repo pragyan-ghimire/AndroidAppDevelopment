@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConvertCurrency</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Currency Converter</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="welcome_to_converter">Welcome to Converter</string>
+    <string name="enter_the_amount_in">Enter the amount in $$</string>
+    <string name="get_in_npr">Get In NPR</string>
+    <string name="currency_img">currency_img</string>
+
+
+</resources>

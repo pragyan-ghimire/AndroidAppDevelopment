@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PowerReceiverExample</string>
+    <string name="send_custom_broadcast">Send Custom Broadcast</string>
+</resources>

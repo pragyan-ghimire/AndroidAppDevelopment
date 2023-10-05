@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">DroidCafeInput</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!--    first fragment-->
+    <string name="intro_text">Droid Desserts</string>
+    <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
+    <string name="froyo">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered a ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a froyo.</string>
+    <!--    order activity-->
+    <string name="name_label_text">Name</string>
+    <string name="enter_name_hint">Enter your name</string>
+    <string name="address_label_text">Address</string>
+    <string name="enter_address_hint">Enter your address</string>
+    <string name="phone_label_text">Phone</string>
+    <string name="enter_phone_hint">Enter phone number</string>
+    <string name="note_label_text">Note</string>
+    <string name="enter_note_hint">Enter note</string>
+    <string name="email_label_text">Email</string>
+    <string name="enter_email_hint">Enter email</string>
+    <string name="choose_a_delivery_method">Choose a delivery method:</string>
+    <string name="same_day_messenger_service">Same day messenger service</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+
+    <!--    menu-->
+    <string name="action_contact">Contact</string>
+    <string name="action_order">Order</string>
+    <string name="action_status">Status</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="action_contact_message">You selected contact.</string>
+    <string name="action_order_message">You selected order.</string>
+    <string name="action_status_message">You selected status.</string>
+    <string name="action_favorites_message">You selected favorites.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_order_activity">Place Order</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Navigation Drawer Experiment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    nav menu-->
+    <string name="action_import">Import</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="action_slideshow">Slideshow</string>
+    <string name="action_tools">Tools</string>
+    <string name="drawer_subtitle_communicate">Communicate</string>
+    <string name="action_share">Share</string>
+    <string name="action_send">Send</string>
+
+<!--    navigation header-->
+    <string name="drawer_header">Pragyan Ghimire</string>
+    <string name="drawer_email">ghimirepragyan100@gmail.com</string>
+
+<!--    flags -->
+    <string name="OpenDrawer">Open navigation drawer</string>
+    <string name="CloseDrawer">Close navigation drawer</string>
+
+</resources>

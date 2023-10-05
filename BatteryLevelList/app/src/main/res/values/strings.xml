@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Battery LevelList</string>
+    <string name="ivBattery_description">Battery Level</string>
+    <string name="minus_sym">-</string>
+    <string name="plus_sym">+</string>
+</resources>

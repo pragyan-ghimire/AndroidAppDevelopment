@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_import"
+            android:title="@string/action_import"
+            android:icon="@drawable/ic_import"
+            android:checked="true"/>
+        <item
+            android:id="@+id/action_gallery"
+            android:title="@string/action_gallery"
+            android:icon="@drawable/ic_gallery" />
+        <item
+            android:id="@+id/action_slideshow"
+            android:title="@string/action_slideshow"
+            android:icon="@drawable/ic_slideshow"/>
+        <item
+            android:id="@+id/action_tools"
+            android:title="@string/action_tools"
+            android:icon="@drawable/ic_tools"/>
+
+    </group>
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/sub_title"
+            android:title="@string/drawer_subtitle_communicate">
+                <menu>
+                    <item
+                        android:id="@+id/action_share"
+                        android:title="@string/action_share"
+                        android:icon="@drawable/ic_share"/>
+                    <item
+                        android:id="@+id/action_send"
+                        android:title="@string/action_send"
+                        android:icon="@drawable/ic_send"/>
+                </menu>
+        </item>
+    </group>
+</menu>

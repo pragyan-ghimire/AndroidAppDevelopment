@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialog For Alert</string>
+    <string name="testing_alert_dialog">Testing alert dialog</string>
+    <string name="alert">Alert</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_message">Click Ok to Continue or Cancel to Exit</string>
+    <string name="ok_btn">Ok</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="ok_pressed_toast">Pressed ok</string>
+    <string name="cancel_pressed_toast">Pressed cancel</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="heading">Welcome to Code</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="remember_me">Remember me</string>
+</resources>

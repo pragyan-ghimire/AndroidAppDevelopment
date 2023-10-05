@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="add_item">Add Item</string>
+
+<!--    activity 2-->
+    <string name="tomato">Tomato</string>
+    <string name="onion">Onion</string>
+    <string name="garlic">Garlic</string>
+    <string name="pepper">Pepper</string>
+    <string name="milk">Milk</string>
+    <string name="bread">Bread</string>
+    <string name="ginger">Ginger</string>
+    <string name="search">Search</string>
+    <string name="heading">Add Ten Shopping Items</string>
+    <string name="name_of_store">Name of store</string>
+</resources>

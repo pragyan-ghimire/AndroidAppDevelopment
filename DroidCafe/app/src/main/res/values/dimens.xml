@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_regular">8dp</dimen>
+    <dimen name="text_heading">24sp</dimen>
+    <dimen name="margin_wide">24dp</dimen>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/coding"
+        android:layout_width="128dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="84dp"
+        android:layout_marginTop="156dp"
+        android:onClick="launchCoding"
+        android:text="@string/button_one"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/gaming"
+        android:layout_width="128dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:onClick="launchGaming"
+        android:text="@string/button_two"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintStart_toStartOf="@+id/coding"
+        app:layout_constraintTop_toBottomOf="@+id/coding" />
+
+    <Button
+        android:id="@+id/entertainment"
+        android:layout_width="128dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:text="@string/button_three"
+        android:onClick="launchEntertainment"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        app:layout_constraintStart_toStartOf="@+id/gaming"
+        app:layout_constraintTop_toBottomOf="@+id/gaming" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleAsyncTask</string>
+    <string name="tv_message">I am ready to start work!</string>
+    <string name="start_task">Start Task</string>
+    <string name="napping">Napping...</string>
+    <string name="progress">onProgressUpdate</string>
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:contentDescription="@string/froyo"
+    tools:context=".FirstFragment">
+
+    <TextView
+        android:id="@+id/textintro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/intro_text"
+        android:textSize="@dimen/text_heading"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_first"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableRight="@drawable/ic_shopping_cart"
+        android:text="@string/next"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/donut"
+        android:layout_width="242dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:contentDescription="@string/donuts"
+        android:onClick="showDonutOrder"
+        android:src="@drawable/donut_circle"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textintro" />
+
+    <ImageView
+        android:id="@+id/ice_cream"
+        android:layout_width="242dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:contentDescription="@string/ice_cream_sandwiches"
+        android:onClick="showIceCreamOrder"
+        android:src="@drawable/icecream_circle"
+        app:layout_constraintStart_toEndOf="@+id/donut"
+        app:layout_constraintTop_toBottomOf="@+id/textintro" />
+
+    <ImageView
+        android:id="@+id/froyo"
+        android:layout_width="243dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:contentDescription="FroYo is premium self-serve frozen yogurt."
+        android:onClick="showFroyoOrder"
+        android:src="@drawable/froyo_circle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/ice_cream"
+        app:layout_constraintTop_toBottomOf="@+id/textintro" />
+
+    <TextView
+        android:id="@+id/donut_description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:text="@string/donuts"
+        app:layout_constraintEnd_toEndOf="@+id/donut"
+        app:layout_constraintStart_toStartOf="@+id/donut"
+        app:layout_constraintTop_toBottomOf="@+id/donut" />
+
+    <TextView
+        android:id="@+id/ice_cream_description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:text="@string/ice_cream_sandwiches"
+        app:layout_constraintEnd_toEndOf="@+id/ice_cream"
+        app:layout_constraintStart_toEndOf="@+id/donut"
+        app:layout_constraintTop_toBottomOf="@+id/ice_cream" />
+
+    <TextView
+        android:id="@+id/froyo_description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:text="@string/froyo"
+        app:layout_constraintEnd_toEndOf="@+id/froyo"
+        app:layout_constraintStart_toEndOf="@+id/ice_cream"
+        app:layout_constraintTop_toBottomOf="@+id/froyo" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
